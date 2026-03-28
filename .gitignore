@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+env/
+venv/
+
+# Fedora / Linux
+.DS_Store
+.directory
+*~
+*.swp
+
+# Local AI / Config
+.env
+GEMINI.md.bak
