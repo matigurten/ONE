@@ -1,4 +1,4 @@
-# Chapter 2 — Carolina
+# Chapter 2 — Carolina (Forró ♩ 110 BPM and below)
 ## ♩ 110 BPM and below
 *🎵 Forró — still playing*
 
