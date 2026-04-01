@@ -2,10 +2,16 @@
   "ui": {
     "inlineThinkingMode": "off",
     "showStatusInTitle": false,
-    "errorVerbosity": "low",
-    "loadingPhrases": "off"
+    "errorVerbosity": "low"
   },
-  "experimental": {
-    "topicUpdateNarration": true
+  "context": {
+    "fileFiltering": { "respectGitIgnore": false }
+  },
+  "planning": {
+    "enabled": false,
+    "autoTrigger": false
+  },
+  "commands": {
+    "defaultMode": true
   }
 }

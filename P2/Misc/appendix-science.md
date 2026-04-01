@@ -52,10 +52,9 @@ The result was not the absence of law. It was law that actually behaved like wha
 
 ---
 
-## A.4 — The Vespera Cell (LENR)
+## A.4 — The Shine Cell (LENR)
 ### Low Energy Nuclear Reaction and the End of Scarcity
 
-The proposed mechanism in ONE — quantum tunneling enhancement through electron screening in nanostructured metal hydride configurations at specific electromagnetic resonance frequencies — is an extrapolation of real theoretical frameworks currently under investigation.
 
 **Key distinction from hot fusion (Tokamak):** Hot fusion replicates the conditions inside a star — extreme temperatures and pressures that force atomic nuclei together. It requires enormous, expensive, centralized infrastructure and has remained "thirty years away" from practical deployment for seventy years. LENR works *with* quantum behavior at small scales rather than against it. If the mechanism can be controlled, the engineering requirements are orders of magnitude simpler.
 
@@ -70,7 +69,7 @@ In 1959, physicist Richard Feynman delivered a lecture titled "There's Plenty of
 
 The core insight is this: every physical object is an arrangement of atoms. The atoms themselves are not scarce. Carbon, silicon, iron, oxygen — the building blocks of almost everything humans manufacture — are among the most abundant elements in the observable universe. The scarcity of physical goods has never been a scarcity of raw material. It has been a scarcity of *organization* — the energy and precision required to put the atoms in the right places.
 
-**The energy dependency:** Molecular manufacturing requires precisely directed, high-density energy input. This is why the Vespera Cell had to come first. Without essentially free energy, the operating cost of a Nanofab would have made it more expensive than conventional manufacturing, not less.
+**The energy dependency:** Molecular manufacturing requires precisely directed, high-density energy input. This is why the Shine Cell had to come first. Without essentially free energy, the operating cost of a Nanofab would have made it more expensive than conventional manufacturing, not less.
 
 **Real-world status (2023):** DNA nanotechnology, protein engineering, and atomic force microscopy have demonstrated the ability to manipulate matter at the molecular scale. Practical general-purpose molecular assemblers remain theoretical. The limiting factors are control systems (directing millions of assemblers simultaneously) and energy (the cost of precise molecular manipulation). Both are tractable problems.
 

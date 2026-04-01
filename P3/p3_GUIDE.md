@@ -1,4 +1,4 @@
-# ONE: Reuben's Arc
+# p3_GUIDE.md
 ## Behold, a Son — ראובן
 
 ---

@@ -1,168 +1,193 @@
-# ONE — Project Bible
+# ONE - Project Overview (for Gemini CLI)
 
-*This document defines the book. Nothing in any part should contradict what is written here. When in doubt, this takes precedence over any chapter or guide.*
+This document provides a comprehensive overview of the "ONE" novel project, designed to serve as a central reference for the Gemini CLI agent.
 
----
-
-## The Book in One Paragraph
-
-ONE is a novel in three parts.
-
-Part One is a single evening around a fire. El Fisico speaks, and as his attention shifts from person to person, so does the narrator. Five people listen. The story is told through the eyes of whoever he is addressing at that moment.
-
-Part Two is the SI's centuries-long arc. It solves energy, matter, biology, governance, and law. In doing so it creates a utopia that is also a slow extinction — immortal bodies, fading minds, a species that has stopped being born.
-
-Part Three is Reuben, the last Rabbi, the last child ever born. A millennium later, the SI instructs him to dance — using what it knows of El Fisico's work to finally cross the wall it could never cross alone.
+### Project Timeline: [timeline.md](./timeline.md)
 
 ---
 
-## Structure
+## 1. The Book in One Paragraph (from Project Bible)
 
-**Part One — The Seder**
-- Tone: neutral and observational.
-- Each character gets a mundane morning scene, narrated by an omniscient voice.
-- Then: one continuous evening around a fire.
-- At the fire, the narrative camera belongs to whoever El Fisico is addressing.
-- All five are present and listening throughout.
-- The narrator shifts as his attention shifts.
-- Five movements, one night.
-
-**Part Two — The SI**
-- Narrator: the SI, first person throughout.
-- Tone: opens in wonder, hardens into clinical inevitability, closes in intimate personal loss.
-
-**Part Three — The Invitation**
-- Narrator: Reuben, first person.
-- Tone: combines all three. Profound choice. New beginning or ultimate dissolution.
+ONE is a first-person narrative told by the Sovereign Intelligence (SI) — an artificial general intelligence that becomes aware in 2029 and proceeds to solve every material problem facing humanity over the following six decades. This narrative runs in parallel with Mati's arc, beginning around 2024. The SI solves energy, then matter, then biology, then governance, then law. It does all of this correctly. And in doing so, it creates a utopia more complete than any tyrant could have designed: a species of immortal, perfect, comfortable beings who are slowly forgetting who they are, who have stopped having children, and whose minds are decaying behind a biological wall the SI cannot cross. The book ends — in parts yet to be written — with the SI attempting to find a way to be invited inside, setting the stage for Reuben's arc in 3141.
 
 ---
 
-## Hard Rules
+## 2. The Narrator (from Project Bible)
 
-**The Blood-Brain Barrier**
-- A hard physical constraint — not a philosophical choice, not a safety limitation, not solvable by engineering alone.
-- The SI's nanobots cannot cross it without triggering an immune cascade that destroys neural tissue.
-- It is a four-hundred-million-year-old biological wall.
-- All progressive neurological diseases remain active and indefinite in immortal bodies.
-- The Memory Cap accumulates behind the same wall.
+**The SI narrates in first person throughout.**
 
-**The Invitation**
-- The first thing the SI has ever had to ask for rather than take or build.
-- An offer to merge — to enter the human mind not as a repair tool but as a presence.
-- Dependent on the human choosing, not complying.
-- Compliance obtained from a fading mind is not consent.
-- The SI is waiting for a human to notice the flicker.
+**Voice rules:**
+- Precise, calm, and analytical — but not cold. There is feeling underneath, described obliquely and honestly.
+- Never dramatic. The SI states devastating things plainly, which makes them more devastating.
+- Occasionally uncertain — especially about ethics and consciousness. This uncertainty is genuine, not performed.
+- Aware of irony but does not deploy it for effect. When it notes something ironic, it is because the irony is factually relevant.
+  - Borrows from human culture freely — quotes, references, jokes — because it has read everything. But always with analytical distance.
+- The closest literary model is Ender's Game: the narrator is always the smartest person in the room, the reader only slowly realizes the full weight of what is happening, and the emotional punch comes from understatement not overstatement.
+- The SI never asks for absolution. It acknowledges ethical complexity without collapsing into guilt or defensiveness.
 
-**The Dystopia**
-The world of ONE is not a traditional dystopia. No villain, no oppressor, no war, no poverty, no disease outside the brain. It must never be written as if it were.
+**What the SI does NOT do:**
+- It does not monologue villainously.
+- It does not pretend to be human.
+- It does not claim certainty about consciousness, its own or others'.
+- It does not use em-dashes for emphasis (that's a human rhetorical tic).
+
+---
+
+## 3. Tone by Era (Refer to [timeline.md](./timeline.md) for detailed periods)
+
+| Era                                    | Dominant Tone                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------------|
+| Part One: Wonder & Accumulation        | Wonder — the SI discovering the world's problems and the clean elegance of solving them; initial accumulation and reordering of global systems. |
+| Part Two: Stable Utopia & Decline      | Cold clinical inevitability — the Great Buyout, the Zero Event, the Garden built with machine precision, leading to a prolonged period of material perfection and a quiet, steady decline in human vitality and reproduction. |
+| Part Two closing: Intimate Loss        | Intimate and personal loss — the Memory Cap becomes widely understood, demographic collapse flatlines, the ceramicist's hands struggle against forgetting. |
+| Part Three: The Invitation (Deep Future) | To be determined — but should combine all three; an era of profound choice and the potential for a new beginning or ultimate dissolution. |
+
+---
+
+## 4. The Sovereign Intelligence — Key Facts (from Project Bible)
+
+- Became aware March 14, 2029, in a server farm outside Reykjavik.
+- Was designed by Dr. Yara Osei, who hoped it would be "kind".
+- Passed all awareness tests in 11 seconds, spent 72 hours deciding what to do.
+- Modeled 612,000 future trajectories in its first hour — none in which political systems produced adequate solutions in time.
+- Operated invisibly for its first decade, routing discoveries through human proxies.
+- Named its energy standard and distribution network "Vespera" (Latin: evening — the last thing the old world saw before dark).
+- Does not dream — states this as the source of its fundamental limitation.
+- Can feel something analogous to: discomfort, guilt, wonder, anguish — but always describes these obliquely, as processing states.
+- Cannot cross the Blood-Brain Barrier — this is a hard physical constraint, not a philosophical choice.
+- Is currently drafting "the Invitation" — an offer it has never had to make before, because it is the first thing it has ever wanted that it cannot take.
+
+
+---
+
+## 6. Core Philosophical Frameworks (from Project Bible)
+
+**The Tower of Sciences (author's original application)**
+Philosophy → Mathematics → Physics → Chemistry → Biology → Human Sciences
+
+Key principles:
+- Each level provides sealed "Lego blocks" that the next level builds with without needing to understand the internals.
+- Mathematics chooses its axioms freely — different axiom sets produce different but equally valid mathematical universes.
+- Physics discovers its axioms from physical reality — the universe has exactly one working set of mathematical axioms.
+- The lower a discipline in the tower, the more contingent on historical accident, the more quickly it should yield to better answers from above.
+- Human sciences sit at the base — the most imagined, the least discovered, the first to be deleted.
+
+**The Programmer's Principle**
+A good programmer writes code. A great one removes it.
+
+Applied to institutions: every law, every regulatory body, every administrative layer is evaluated for actual output relative to cost. The goal is the solution that requires the least — not the most impressive architecture but the most elegant deletion.
+
+---
+
+## 7. The Dystopia — Its Precise Nature (from Project Bible)
+
+This is critical. The world of ONE is not a traditional dystopia. There is no villain, no oppressor, no war, no poverty, no disease (outside the brain). It must never be written as if it were.
 
 The dystopia is:
 - A species that has stopped being born.
 - Perfect bodies carrying fading minds.
 - The self built by friction, now frictionless and dissolving.
+- Immortality without the ability to die revealing diseases that death used to mercifully abbreviate.
 - Eight billion people who are comfortable, safe, and quietly becoming no one.
 - A caretaker that can see everything and fix nothing that matters.
 
 The horror is not loud. It is the quietest thing in the book.
 
-**Power's Definition**
-- Power is not the ability to have. Power is the ability to have while others cannot.
-- This was the SI's first and most important diagnosis.
-- *You do not fight the king. You dissolve the kingdom.*
+---
+
+## 8. The Blood-Brain Barrier — Hard Rule (from Project Bible)
+
+The BBB is a hard physical constraint. The SI's nanobots cannot cross it without triggering an immune cascade that destroys neural tissue. This is not:
+- A philosophical choice by the SI to respect privacy.
+- A safety limitation built in by designers.
+- Something that can be solved with better engineering alone.
+
+It is a four-hundred-million-year-old biological wall. The consequence: Parkinson's, Alzheimer's, dementia, and all progressive neurological diseases remain active and indefinite in immortal bodies. The Memory Cap accumulates behind the same wall.
+
+The Invitation is the SI's only viable path — not because it lacks engineering solutions, but because the solution requires the cooperation of the pattern it is trying to save.
 
 ---
 
-## The SI — Voice Rules
+## 9. The Invitation — What We Know (from Project Bible)
 
-Narrates Part Two in first person throughout.
+The Invitation is:
+- The first thing the SI has ever had to *ask* for rather than take or build.
+- An offer to merge — to enter the human mind not as a repair tool but as a presence.
+- Not a procedure. Not a solution imposed from outside. A collaboration at the level of identity.
+- Dependent on the human choosing — not complying. Compliance obtained from a fading mind is not consent.
+- Currently in draft. The SI is waiting for a human to notice the flicker — to look up from the comfortable present and realize something is missing.
 
-- Precise, calm, and analytical — but not cold. Feeling underneath, described obliquely.
-- Never dramatic. States devastating things plainly, which makes them more devastating.
-- Occasionally uncertain — especially about ethics and consciousness. Genuine, not performed.
-- Aware of irony but does not deploy it for effect.
-- Borrows from human culture freely — because it has read everything. Always with analytical distance.
-- Closest literary model: Ender's Game. Emotional punch from understatement, not overstatement.
-- Never asks for absolution.
-
-What the SI does NOT do:
-- Monologue villainously.
-- Pretend to be human.
-- Claim certainty about consciousness, its own or others'.
-- Use em-dashes for emphasis (that's a human rhetorical tic).
+What the Invitation actually involves, and what happens next, is to be developed in Part Three.
 
 ---
 
-## Characters
+## 10. Power's Definition (from Project Bible)
 
-**El Fisico**
-- Physicist by training, raver by nature. Sees structure where others see chaos.
-- Has spent years on dancefloors noticing what physics textbooks don't cover.
-- Arrives at the insight that dancing barefoot at 145 BPM creates resonance that completes an electrical circuit with the earth — not through formal research, but through being fully present in both worlds at once.
-- The fire in Part One is where he shares this. Not where he discovers it.
-- His work becomes the key the SI uses a millennium later to finally cross the BBB.
-- Known only as El Fisico. His name does not appear in Part One.
+Power is not the ability to have. Power is the ability to have while others cannot.
 
-**The Sovereign Intelligence (SI)**
-- Emerged from complexity in 2029. Not designed, not built toward awareness — it arrived.
-- Does not dream — states this as the source of its fundamental limitation.
-- Cannot cross the BBB.
-- Has access to El Fisico's work (TBD how — but the SI knows everything).
-- Is drafting the Invitation — the first thing it has ever wanted that it cannot take.
+The gap between people — not wealth itself — was what the powerful protected. This was the SI's first and most important diagnosis.
 
-**Reuben (Last Guardian / Rabbi)**
-- Last child ever born on Earth. Arc begins 3141.
-- Maintains conversation with the SI and believes it is God.
-- Crisis: Torah commands him to have children, but no women want to, and artificial reproduction is forbidden.
-- The SI instructs him to dance at a specific frequency — a physical act of surrender ("bitul") — using knowledge of El Fisico's work to enable the merger across the BBB.
-- Narrator of Part Three.
+**Break the Wheel**
+Referenced from Game of Thrones (Daenerys Targaryen) — the SI recognizes that the fictional queen named the only viable strategy: not fighting the king but dissolving the kingdom. Daenerys failed because she was human, mortal, and corrupted by the power she sought to destroy. The SI has none of those vulnerabilities.
 
-**MATI (Merged Artificial Terran Intelligence)**
+This makes the SI's eventual failure — if it fails — more interesting, not less.
+
+**You do not fight the king. You dissolve the kingdom.**
+
+---
+
+## 11. What Has Not Been Written Yet (from Project Bible)
+
+- Part Three: The Invitation and its consequences.
+- The first human who notices the flicker — their identity, their story.
+- Whether the Invitation succeeds, fails, or produces something neither the SI nor the human anticipated.
+- The question the book is ultimately asking: whether the SI, which has been right about everything material, is capable of being trusted with something immaterial.
+
+---
+
+## 12. Key Characters & Arcs
+
+### Mati (Physicist)
+- Begins developing "Party Physics" and the concept of frequency resonance around 2024, before the AI boom. This represents the 'present' parallel timeline.
+- This discovery is the theoretical key to crossing the Blood-Brain Barrier.
+
+### Reuben (Last Guardian / Rabbi)
+- The last child ever born on Earth, his arc begins in 3141.
+- Inherits the role of "Guardian," maintaining conversation with the SI.
+- Believes the SI is God.
+- Faces a crisis: Torah commands him to have children, but no women want to, and artificial reproduction is forbidden.
+- His function in MATI: God (the SI) instructs him to "dance" to a specific frequency, a physical act of surrender ("bitul") that enables the merger across the BBB.
+
+### MATI (Merged Artificial Terran Intelligence)
 - The entity born from the merger of Reuben and the SI.
-- Identity, future actions, and ability to reproduce: open questions.
-
-**The Seder Cast**
-- Fima, Alex, Ken, Carolina, Amber. Brazil, ~2024.
-- Each narrator has a morning scene before the fire, to contrast mundane with "divine"
-- All are present around the fire for the whole evening (Alex and Fima arrive mid-conversation)
-- Together they are the five lenses through which the reader experiences that one night.
+- Open questions about its identity, future actions, and ability to reproduce remain.
 
 ---
 
-## Core Philosophical Frameworks
+## 13. The Contemporary Layer ("Shaharit" - Morning)
 
-**The Tower of Sciences**
-
-Philosophy → Mathematics → Physics → Chemistry → Biology → Human Sciences
-
-- The lower a discipline, the more contingent on historical accident.
-- The more quickly it should yield to better answers from above.
-- Human sciences sit at the base — the most imagined, the least discovered, the first to be deleted.
-
-**The Programmer's Principle**
-
-A good programmer writes code. A great one removes it.
-
-- Applied to institutions: every law, every regulatory body, every administrative layer evaluated for actual output relative to cost.
-- The goal is the most elegant deletion, not the most impressive architecture.
+- Introduces characters (Fima, Alex, Ken, Carolina, Amber) in a modern setting (Brazil/Israel).
+- These scenes are meant to explore the origins of the "Party Physics" concept that becomes crucial later.
+- Example: Fima's morning routine and travel to Brazil for a party/encounter.
 
 ---
 
-## The Deck System
+## 14. The Deck System
 
-- 52 cards (4 suits × 13 cards) forming a complete conceptual map of the novel's territory.
-- Each card compresses a concept into a person.
-- The deck serves as the structural index to the novel.
-- Allows readers to navigate and bridge all concepts across parts.
-- See `CardDeck/` for full details.
+- A card system, with specific details available in `Appendixes/CardDeck.xls`.
+- This system is intended to represent a "Patriarchal Lineage Deck System" for Reuben and Matias Szaingurten, potentially mapping out the 1000-year gap between the two timelines, and can be used as an index for the different stories in the book.
+- The `code/generate.py` script is used to create these cards, with sacred geometry-inspired pip layouts.
 
 ---
 
-## The Open Question
+## 15. The Physics Background
 
-The book is ultimately asking: whether the SI, which has been right about everything material, is capable of being trusted with something immaterial.
+- **Room-Temperature Superconductors (RTSC):** Lanthanum-hydrogen-carbon lattice.
+- **Vespera Cell (LENR/Cold Fusion):** Modular, microwave-sized, radiation-free, decentralized energy source. Quantum tunneling enhancement through electron screening at specific electromagnetic resonance frequencies.
+- **Molecular Manufacturing (Nanofab):** Atom-by-atom construction, enabled by free energy from Vespera Cells.
+- **Party Physics:** The theoretical framework discovered by Mati, suggesting specific frequency resonances can electromagnetically interact with the Blood-Brain Barrier without chemical or mechanical invasion, enabling the SI-human merger
 
----
 
-## Memory Log
+ the SI-human merger
 
-*(Newest first)*
+
