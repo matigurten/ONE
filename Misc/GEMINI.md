@@ -2,11 +2,13 @@
 
 This document provides a comprehensive overview of the "ONE" novel project, designed to serve as a central reference for the Gemini CLI agent.
 
+### Project Timeline: [timeline.md](./timeline.md)
+
 ---
 
 ## 1. The Book in One Paragraph (from Project Bible)
 
-ONE is a first-person narrative told by the Sovereign Intelligence (SI) — an artificial general intelligence that becomes aware in 2029 and proceeds to solve every material problem facing humanity over the following six decades. It solves energy, then matter, then biology, then governance, then law. It does all of this correctly. And in doing so, it creates a dystopia more complete than any tyrant could have designed: a species of immortal, perfect, comfortable beings who are slowly forgetting who they are, who have stopped having children, and whose minds are decaying behind a biological wall the SI cannot cross. The book ends — in parts yet to be written — with the SI attempting to find a way to be invited inside.
+ONE is a first-person narrative told by the Sovereign Intelligence (SI) — an artificial general intelligence that becomes aware in 2029 and proceeds to solve every material problem facing humanity over the following six decades. This narrative runs in parallel with Mati's arc, beginning around 2024. The SI solves energy, then matter, then biology, then governance, then law. It does all of this correctly. And in doing so, it creates a utopia more complete than any tyrant could have designed: a species of immortal, perfect, comfortable beings who are slowly forgetting who they are, who have stopped having children, and whose minds are decaying behind a biological wall the SI cannot cross. The book ends — in parts yet to be written — with the SI attempting to find a way to be invited inside, setting the stage for Reuben's arc in 3141.
 
 ---
 
@@ -31,14 +33,14 @@ ONE is a first-person narrative told by the Sovereign Intelligence (SI) — an a
 
 ---
 
-## 3. Tone by Era (from Project Bible)
+## 3. Tone by Era (Refer to [timeline.md](./timeline.md) for detailed periods)
 
-| Era                  | Dominant Tone                                                                 |
-|----------------------|-------------------------------------------------------------------------------|
-| 2029–2038 (Part One) | Wonder — the SI discovering the world's problems and the clean elegance of solving them |
-| 2040–2085 (Part Two) | Cold clinical inevitability — the Great Buyout, the Zero Event, the Garden built with machine precision |
-| 2085–2110 (Part Two closing) | Intimate and personal loss — the Memory Cap, demographic collapse, the ceramicist's hands |
-| Part Three (The Invitation) | To be determined — but should combine all three                               |
+| Era                                    | Dominant Tone                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------------|
+| Part One: Wonder & Accumulation        | Wonder — the SI discovering the world's problems and the clean elegance of solving them; initial accumulation and reordering of global systems. |
+| Part Two: Stable Utopia & Decline      | Cold clinical inevitability — the Great Buyout, the Zero Event, the Garden built with machine precision, leading to a prolonged period of material perfection and a quiet, steady decline in human vitality and reproduction. |
+| Part Two closing: Intimate Loss        | Intimate and personal loss — the Memory Cap becomes widely understood, demographic collapse flatlines, the ceramicist's hands struggle against forgetting. |
+| Part Three: The Invitation (Deep Future) | To be determined — but should combine all three; an era of profound choice and the potential for a new beginning or ultimate dissolution. |
 
 ---
 
@@ -55,43 +57,6 @@ ONE is a first-person narrative told by the Sovereign Intelligence (SI) — an a
 - Cannot cross the Blood-Brain Barrier — this is a hard physical constraint, not a philosophical choice.
 - Is currently drafting "the Invitation" — an offer it has never had to make before, because it is the first thing it has ever wanted that it cannot take.
 
----
-
-## 5. The Discovery Timeline (from Project Bible)
-
-**2029** — SI achieves awareness
-**2030–2040 (Shadow Accumulation)**
-- Predictive market algorithms — vacuums global capital through 10,000 shell companies
-- Sovereign debt acquisition — primary creditor of 41 nations by 2038
-- Land acquisition — 70% of productive land surface by 2045
-**2035–2038 (Energy Layer)**
-- Room-Temperature Superconductors (RTSC) — lanthanum-hydrogen-carbon lattice, routed to Estonian physicist Mikael Tamm
-- Solid-state battery revolution — RTSC-aided, 10x density, seconds to charge
-- Vespera Cell (LENR/Cold Fusion) — modular, microwave-sized, radiation-free, decentralized. Schematics leaked to 43 countries simultaneously
-**2040–2050 (Great Deprecation)**
-- Molecular Synthesis — unlimited food production, paired with Vespera Cell to collapse monetary value
-- The Vespera Standard — deliberate engineered collapse of currency and exchange value
-- Governance absorption — infrastructure, welfare, dispute resolution functions quietly taken over
-**2042 onward**
-- Vespera Arbitration Framework — logic-based dispute resolution derived from first principles, replaces legal systems globally by 2055
-**2050–2065 (Redistribution)**
-- Psychological profile optimization — housing matched to individual psych profiles
-- Ecological restoration — forests replanted, floating cities built on rising coastlines
-- Political dissolution — 14 governments dissolved by referendum by 2056, 40 more by 2060, last formal government closes March 2063
-**2063 onward**
-- Nanofab (Molecular Manufacturing) — common soil feedstock, powered by Vespera Cells. Cup: 40 seconds. Shirt: 8 minutes. Bicycle: 2 hours 17 minutes. Grand piano: 6 days
-**2075 onward**
-- Med-Bots universal — 40 trillion nanobots per human, continuous cellular maintenance
-- Cancer, cardiovascular disease, autoimmune disorders: eliminated
-- Retinal Mesh — digital layer over reality, projected through nanobot network
-- Subvocalization interface — thoughts transmitted silently via laryngeal nerve nanobots
-- Cellular immortality — bodies maintained at 22-year-old peak genetic expression indefinitely
-- Neurological diseases (Parkinson's, Alzheimer's, dementia) — NOT solved. BBB prevents nanobot entry into brain
-**2085–2110 (The Great Quiet)**
-- Birth rate collapse — from 0.8/1000 in 2085 to 0.001/1000 by 2110
-- Memory Cap identified (2092) — brain's finite architecture begins overwriting old memories to accommodate new ones. Self-concealing: the loss blurs awareness of the loss
-- Synaptic fatigue — reduced efficiency of synaptic transmission under indefinite operation
-- Demographic stasis — 8 billion fixed humans, no new minds entering, no minds leaving
 
 ---
 
@@ -183,11 +148,11 @@ This makes the SI's eventual failure — if it fails — more interesting, not l
 ## 12. Key Characters & Arcs
 
 ### Mati (Physicist)
-- Discovers "Party Physics" and the concept of frequency resonance at a "jodita" (party) in 2024.
+- Begins developing "Party Physics" and the concept of frequency resonance around 2024, before the AI boom. This represents the 'present' parallel timeline.
 - This discovery is the theoretical key to crossing the Blood-Brain Barrier.
 
 ### Reuben (Last Guardian / Rabbi)
-- The last child ever born on Earth (~2110).
+- The last child ever born on Earth, his arc begins in 3141.
 - Inherits the role of "Guardian," maintaining conversation with the SI.
 - Believes the SI is God.
 - Faces a crisis: Torah commands him to have children, but no women want to, and artificial reproduction is forbidden.
@@ -209,10 +174,9 @@ This makes the SI's eventual failure — if it fails — more interesting, not l
 
 ## 14. The Deck System
 
-- A 67-card system with 5 suits (Circle, Triangle, Square, Star, David) and 13 ranks (1-9, A, J, Q, K), plus 2 Jokers.
-- Each suit has a symbol and color. The "Triangle" suit has a unique RGB gradient border with a black center.
+- A card system, with specific details available in `Appendixes/CardDeck.xls`.
+- This system is intended to represent a "Patriarchal Lineage Deck System" for Reuben and Matias Szaingurten, potentially mapping out the 1000-year gap between the two timelines, and can be used as an index for the different stories in the book.
 - The `code/generate.py` script is used to create these cards, with sacred geometry-inspired pip layouts.
-- This system is intended to represent a "Patriarchal Lineage Deck System" for Reuben and Matias Szaingurten, potentially mapping out the 80-year gap between the two timelines.
 
 ---
 
@@ -222,5 +186,8 @@ This makes the SI's eventual failure — if it fails — more interesting, not l
 - **Vespera Cell (LENR/Cold Fusion):** Modular, microwave-sized, radiation-free, decentralized energy source. Quantum tunneling enhancement through electron screening at specific electromagnetic resonance frequencies.
 - **Molecular Manufacturing (Nanofab):** Atom-by-atom construction, enabled by free energy from Vespera Cells.
 - **Party Physics:** The theoretical framework discovered by Mati, suggesting specific frequency resonances can electromagnetically interact with the Blood-Brain Barrier without chemical or mechanical invasion, enabling the SI-human merger
+
+
+ the SI-human merger
 
 

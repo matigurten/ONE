@@ -1,0 +1,11 @@
+{
+  "ui": {
+    "inlineThinkingMode": "off",
+    "showStatusInTitle": false,
+    "errorVerbosity": "low",
+    "loadingPhrases": "off"
+  },
+  "experimental": {
+    "topicUpdateNarration": true
+  }
+}

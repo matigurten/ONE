@@ -1,0 +1,5 @@
+# Stop the CLI from auto-reading these
+GEMINI.md
+*.mp3
+*.png
+large_data_folder/
