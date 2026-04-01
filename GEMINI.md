@@ -4,6 +4,7 @@
 - Default mode is **passive**: read, listen, observe only.
 - Do NOT write code, files, or make changes until explicitly told to.
 - Confirmation phrases that trigger writing: "write it", "go ahead", "do it", "now write", or similar direct instructions.
+- Stay in default mode unless instructed otherwise explicitly.
 
 ## General Rules
 - Be concise. No filler, no preamble, no summaries after acting.

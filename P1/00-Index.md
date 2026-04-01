@@ -1,6 +1,6 @@
 # Part 1 Index: Seder Chronology
 
-This index organizes the files from 'Part 1' according to the narrative's "seder" chronology, presenting character arcs that begin with their morning (Shaharit) followed by their interactions. Mati's origin story serves as a foundational element.
+This index organizes the files from 'Part 1' according to the narrative's "seder" chronology, presenting character arcs that begin with their morning (Shaharit) followed by their interactions. 
 
 ---
 
@@ -36,7 +36,7 @@ A collection of characters' early morning routines and perspectives.
 
 ## III. Character Arcs: Interactions and Developments
 
-This section details each character's progression through the day, focusing on their interactions with Mati, who embodies the "prophet" figure through his philosophical and scientific discussions.
+This section details each character's progression through the day, focusing on their interactions with El Fisico, who embodies the "musical prophet" figure through his philosophical and scientific discussions.
 
 ### Carolina's Arc
 *   **Morning:** `04-carolina-A-shaharit.md`
