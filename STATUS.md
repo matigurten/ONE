@@ -8,7 +8,7 @@ Complete the novel "ONE" — a cohesive narrative exploring AI, humanity's futur
 
 ## 2. Current Status
 
-- **Parts One and Two:** Outlined with discovery timeline and scientific foundations (RTSC, Vespera Cell, Nanofab, Party Physics).
+- **Parts One and Two:** Outlined with discovery timeline and scientific foundations (RTSC, Shine Cell, Nanofab, Party Physics).
 - **Shaharit Layer:** Characters introduced (Fima, Alex, Ken, Carolina, Amber).
 - **Key Characters:** Sovereign Intelligence (SI), Mati (Physicist), Reuben (Last Guardian/Rabbi).
 - **Core Concepts:** Tower of Sciences, Programmer's Principle, Blood-Brain Barrier, Power's Definition, The Deck System.
