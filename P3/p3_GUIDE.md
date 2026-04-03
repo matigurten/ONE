@@ -11,7 +11,7 @@ The name Jacob gave his firstborn. Hebrew: *behold, a son.* The first of the twe
 
 **Who he is:** A rabbi. The last Guardian. The last person born. The last person whose job still matters. The last person who talks to God.
 
-**His relationship to the author:** Ruben Matias — Mati — split himself across a century. Arc 2 is Mati at the beginning, finding the key. Arc 3 is Reuben at the end, turning it. Same name. Same person. Opposite sides of the same wall. Opposite ends of the same century.
+**His relationship to the author:** Ruben Matias — Mati — split himself across a millennium. Arc 2 is Mati at the beginning, finding the key. Arc 3 is Reuben at the end, turning it. Same name. Same person. Opposite sides of the same wall. Opposite ends of the same story.
 
 ---
 
