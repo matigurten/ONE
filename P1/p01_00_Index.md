@@ -36,29 +36,3 @@ The foundational scene where El Fisico gathers five people around a fire. This s
 
 ### Morning (Shaharit)
 *   **File:** `p01_c04_fima-A-shaharit.md`
-
-### Interaction with El Fisico
-*   **File:** `p01_c04_fima-B-interaction.md`
-
----
-
-## V. Ken's Arc
-
-### Morning (Shaharit)
-*   **File:** `p01_c05_ken-A-shaharit.md`
-
-### Interaction with El Fisico
-*   **File:** `p01_c05_ken-B-interaction.md`
-
----
-
-## VI. Alex's Arc
-
-### Morning (Shaharit)
-*   **File:** `p01_c06_alex-A-shaharit.md`
-
----
-
-## Appendix
-
-Additional materials and resources supporting Part One's narrative are housed in the `Appendix/` directory.

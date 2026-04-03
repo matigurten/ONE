@@ -14,13 +14,13 @@ The garden was red earth under the trees, the big ones that held the whole place
 
 ---
 
-Mati came down at half past seven. He always came down around that time — no alarm I think, just awake when he was awake. He said good morning in castellano and sat at the same table he always sat at, the one facing the garden, and I brought him his coffee without asking.
+El Fisico came down at half past seven. He always came down around that time — no alarm I think, just awake when he was awake. He said good morning in castellano and sat at the same table he always sat at, the one facing the garden, and I brought him his coffee without asking.
 
 He ordered two breakfasts. He always ordered two breakfasts. I had stopped asking why.
 
 The English couple came down around nine. The girl first — Amber — then the boy a few minutes behind her, hair still wet, completely unbothered. Ken. He shook my hand when I introduced myself which I liked. Some guests don't bother.
 
-They sat near the garden. I brought them coffee and fruit and eggs. Mati glanced over at them once from his table — brief, the way he glanced at things — and then went back to looking at the garden.
+They sat near the garden. I brought them coffee and fruit and eggs. El Fisico glanced over at them once from his table — brief, the way he glanced at things — and then went back to looking at the garden.
 
 The morning went the way mornings go. By eleven it was done.
 
@@ -30,13 +30,13 @@ The French boys didn't make it to breakfast. They'd messaged — arriving today,
 
 By evening I was behind the bar cutting limes.
 
-The music was Mati's. He'd asked two nights before if he could have the sound system since the place was empty anyway. He said he couldn't take another night of the same guitar love songs. We got along in castellano and he tipped well so I said yes.
+The music was El Fisico's. He'd asked two nights before if he could have the sound system since the place was empty anyway. He said he couldn't take another night of the same guitar love songs. We got along in castellano and he tipped well so I said yes.
 
 The English couple came in around half past seven. The girl stopped when she came in — the music was too much for her, I could see it before she said anything. She was polite about it. I changed it to forró. She looked relieved. I brought them their drinks and went back to the limes.
 
-Twenty minutes later Mati came down the stairs.
+Twenty minutes later El Fisico came down the stairs.
 
-He heard the forró and stopped. Looked at the couple by the fire. Went over to the girl. She said something and he grabbed his chest and fell back in his chair like she'd shot him. The boyfriend said something from the fire. Mati sat down and leaned forward.
+He heard the forró and stopped. Looked at the couple by the fire. Went over to the girl. She said something and he grabbed his chest and fell back in his chair like she'd shot him. The boyfriend said something from the fire. El Fisico sat down and leaned forward.
 
 I was watching from the bar when he looked over at me.
 
@@ -58,7 +58,7 @@ I said I just liked to dance.
 
 A few minutes later I saw him take out his phone and open something — not a message, not music, something else. He held it up toward the speaker for a moment. Then he turned it around and showed the table. I couldn't see the number from the bar but I saw Amber lean forward to look at it and the English boy turn in his chair.
 
-Then Mati got up and went to the sound system.
+Then El Fisico got up and went to the sound system.
 
 The forró stopped. Something else came on — no voice, no lyrics, just music moving forward with a clean intention, faster than before, steady in a way the forró hadn't been steady. I didn't know what it was. I watched him hold the phone up again and then set it face-up on the table where everyone could see the number on the screen.
 
