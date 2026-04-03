@@ -11,6 +11,6 @@ venv/
 .directory
 *~
 *.swp
-
+*.jpg
 # Local AI / Config
 .env
