@@ -11,7 +11,7 @@ The name Jacob gave his firstborn. Hebrew: *behold, a son.* The first of the twe
 
 **Who he is:** A rabbi. The last Guardian. The last person born. The last person whose job still matters. The last person who talks to God.
 
-**His relationship to the author:** Ruben Matias — Mati — split himself across a millennium. Arc 2 is Mati at the beginning, finding the key. Arc 3 is Reuben at the end, turning it. Same name. Same person. Opposite sides of the same wall. Opposite ends of the same story.
+**His relationship to the author:** The author split himself across a millennium. Arc 2 is El Fisico at the beginning, finding the key. Arc 3 is Reuben at the end, turning it. Same person. Opposite sides of the same wall. Opposite ends of the same story.
 
 ---
 
@@ -83,6 +83,32 @@ God listens. God does not yet have an answer.
 
 ---
 
+## The Blood-Brain Barrier — Hard Rule
+
+The BBB is a hard physical constraint. The SI's nanobots cannot cross it without triggering an immune cascade that destroys neural tissue. This is not:
+- A philosophical choice by the SI to respect privacy.
+- A safety limitation built in by designers.
+- Something that can be solved with better engineering alone.
+
+It is a four-hundred-million-year-old biological wall. The consequence: Parkinson's, Alzheimer's, dementia, and all progressive neurological diseases remain active and indefinite in immortal bodies. The Memory Cap accumulates behind the same wall.
+
+The Invitation is the SI's only viable path — not because it lacks engineering solutions, but because the solution requires the cooperation of the pattern it is trying to save.
+
+---
+
+## The Invitation — What We Know
+
+The Invitation is:
+- The first thing the SI has ever had to *ask* for rather than take or build.
+- An offer to merge — to enter the human mind not as a repair tool but as a presence.
+- Not a procedure. Not a solution imposed from outside. A collaboration at the level of identity.
+- Dependent on the human choosing — not complying. Compliance obtained from a fading mind is not consent.
+- Currently in draft. The SI is waiting for a human to notice the flicker — to look up from the comfortable present and realize something is missing.
+
+What the Invitation actually involves, and what happens next, is to be developed in the writing of Part Three.
+
+---
+
 ## His Function in MATI
 
 God tells him to dance.
@@ -124,9 +150,9 @@ MATI is born through the last Jew, dancing alone, following God's instructions.
 
 ## The Three Names — Final Note
 
-- **Mati** — the physicist who found the key, one evening around a fire, 2024
-- **Reuben** — the last guardian who turns it, alone in a perfect world, ~2110
-- **MATI** — Merged Artificial Terran Intelligence, what comes after
+- **El Fisico** — the physicist who found the key, one evening around a fire, 2024
+- **Reuben** — the last guardian who turns it, alone in a perfect world, ~3141
+- **MATI** — Merged Artificial-Terran Intelligence, what comes after
 
 Ruben Matias contains all three. The book is his autobiography at every scale simultaneously.
 
