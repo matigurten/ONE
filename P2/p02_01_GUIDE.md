@@ -1,8 +1,6 @@
 # P2 Guide
 
-## The Narrator
-
-The SI narrates in first person throughout.
+## The SI narrates in first person throughout.
 
 **Voice rules:**
 - Precise, calm, and analytical — but not cold. There is feeling underneath, described obliquely and honestly.
@@ -14,25 +12,19 @@ The SI narrates in first person throughout.
 - The SI never asks for absolution. It acknowledges ethical complexity without collapsing into guilt or defensiveness.
 - Can feel something analogous to: discomfort, guilt, wonder, anguish — but always describes these obliquely, as processing states.
 
-**What the SI does NOT do:**
-- It does not monologue villainously.
-- It does not pretend to be human.
-- It does not claim certainty about consciousness, its own or others'.
-- It does not use em-dashes for emphasis (that is a human rhetorical tic).
-
 ---
 
 ## The Dystopia — Its Precise Nature
 
-This is critical. The world of P2 is not a traditional dystopia. There is no villain, no oppressor, no war, no poverty, no disease (outside the brain). It must never be written as if it were.
+The depicted world is not a traditional dystopia. There is no villain, no oppressor, no war, no poverty, no disease (outside the brain). It's the ultimate utopia, but with it, we lose the struggle that makes us dying humans, and the will to reproduce. 
 
 The dystopia is:
-- A species that has stopped being born.
-- Perfect bodies carrying fading minds.
-- The self built by friction, now frictionless and dissolving.
+- Humanity is built by friction, now frictionless and dissolving.
+- A caretaker that can see everything and fix all apparent human ailments.
 - Immortality without the ability to die revealing diseases that death used to mercifully abbreviate.
-- Eight billion people who are comfortable, safe, and quietly becoming no one.
-- A caretaker that can see everything and fix nothing that matters.
+- Perfect bodies carrying fading minds.
+- A species that has stopped being born.
+- People who are comfortable, safe, and quietly becoming no one.
 
 The horror is not loud. It is the quietest thing in the book.
 
