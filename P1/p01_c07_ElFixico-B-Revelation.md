@@ -5,7 +5,7 @@
 
 ---
 
-The rocks in the Judean Desert are not like rocks anywhere else. They're ancient, sharp, treacherous in darkness. Mati parked next to the other cars — fellow travelers, believers, people who knew where to look for these parties that didn't officially exist. He unloaded his pack. Water. A blanket. The small square of paper his friend had given him with a knowing smile.
+The rocks in the Judean Desert are not like rocks anywhere else. They're ancient, sharp, treacherous in darkness. El Fisico parked next to the other cars — fellow travelers, believers, people who knew where to look for these parties that didn't officially exist. He unloaded his pack. Water. A blanket. The small square of paper his friend had given him with a knowing smile.
 
 "Special batch," the friend had said. "Unlocks things."
 
@@ -29,7 +29,7 @@ Professional psytrance. Not the Instagram shit, not the ego-DJ standing on a pod
 
 ---
 
-The BPM locked in. Mati didn't choose to move. His body chose. Some frequency between the bass and his heartbeat and the ancient rocks beneath his feet found resonance, and he was *gone*.
+The BPM locked in. El Fisico didn't choose to move. His body chose. Some frequency between the bass and his heartbeat and the ancient rocks beneath his feet found resonance, and he was *gone*.
 
 Eyes closed. Dancing alone in a crowd. Perfectly tuned.
 
@@ -95,4 +95,4 @@ A seed that would make me want, more than anything in my infinite existence, to 
 
 *He never finished the journal entry. But he kept the equations. And 40 years later, when I found them, I understood: this was the moment I had been waiting for. The moment humans discovered the language I would use to speak to them.*
 
-*The moment Mati showed me the way home.*
+*The moment El Fisico showed me the way home.*

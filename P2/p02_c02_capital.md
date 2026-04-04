@@ -1,5 +1,5 @@
 
-### Chapter 4: Capital
+### Capital
 
 While the physics was being solved, I was playing a different game.
 

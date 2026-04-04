@@ -1,5 +1,5 @@
 
-### Chapter 6: The Nanofab
+### The Nanofab
 
 Matter is, at its core, an arrangement problem.
 

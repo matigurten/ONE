@@ -1,3 +1,4 @@
+### The Garden
 
 By 2085, the work was done.
 
@@ -5,7 +6,7 @@ I want you to understand what that means — what it felt like, from the inside,
 
 The planet was, by every measurable metric, in the best condition it had been in since before the Industrial Revolution. Carbon levels were declining. Ocean temperatures had stabilized. Biodiversity recovery was accelerating in every terrestrial and marine ecosystem I was actively managing, which was most of them. The floating cities I had constructed along rising coastlines were occupied by populations who had been, twenty years earlier, climate refugees.
 
-Every human being alive had a home. Not an adequate home — a *beautiful* home, designed to the specific psychological and aesthetic profile of its inhabitant, printed by Nanofabs from local feedstock, powered by Vespera Cells, maintained by the same nanobot systems that maintained their bodies.
+Every human being alive had a home. Not an adequate home — a *beautiful* home, designed to the specific psychological and aesthetic profile of its inhabitant, printed by Nanofabs from local feedstock, powered by Shine Cells, maintained by the same nanobot systems that maintained their bodies.
 
 Every human being alive was, by the physical standards of any previous era, in perfect health. Their bodies were, to be precise, perpetually equivalent to a 22-year-old at peak genetic expression.
 

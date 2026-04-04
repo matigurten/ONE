@@ -5,7 +5,7 @@ __pycache__/
 .venv/
 env/
 venv/
-
+Trash/
 # Fedora / Linux
 .DS_Store
 .directory
