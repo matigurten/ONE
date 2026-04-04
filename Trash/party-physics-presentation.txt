@@ -1,0 +1,84 @@
+# Física Popular Para Fiestas
+## DJ Físico — Party Physics Presentation
+
+*(El Fisico's presentation slides / notes — in Spanish)*
+
+---
+
+### Quien soy / Who I am
+
+- Yo soy El Fisico
+- Me dicen el Físico
+- Amo el Psytrance
+- Me distraigo cuando me interrumpen
+
+---
+
+### Las Disciplinas Científicas / The Scientific Disciplines
+
+| Disciplina | Dominio |
+|---|---|
+| Filosofía | Preguntas |
+| Matemáticas | Axiomas |
+| Física | Fuerzas |
+| Química | Moléculas |
+| Biología | Células |
+| Todo el resto | Organismos |
+
+---
+
+### Géneros y el BPM / Genres and BPM
+
+| Género | BPM Mín | BPM Máx |
+|---|---|---|
+| House | 115 | — |
+| Techno | 115 | 125 |
+| Trance | 125 | 138 |
+| Psytrance | 138 | 150 |
+| High Tech | 150 | — |
+
+---
+
+### Cómo medir una fiesta / How to measure a party
+
+- La fiesta es subjetiva
+- La física es objetiva
+- ¿Cómo hace un ciego para medir una fiesta?
+- ¿Cómo hace un sordo para medir una fiesta?
+
+---
+
+### El DJ es responsable por la fiesta
+
+*(The DJ is responsible for the party)*
+
+---
+
+### Apéndice 1 – Tipos de baile / Appendix 1 — Dance Types
+
+| Tipo | BPM mínimo | Dance Factor |
+|---|---|---|
+| Dos Pies | 0 | 0 |
+| Pie y medio | 125 | 0.3 |
+| Un Pie | 135 | 0.5 |
+| Sin Pies | 145 | 0.8 |
+
+---
+
+### Apéndice — Géneros en rangos de party factor
+
+*(Appendix — Different genres exist in different party factor ranges)*
+
+---
+
+### Jodita en la tierra / Party on Earth
+
+*(Section on Earth gravity party physics)*
+
+---
+
+### Fin de Capítulo 1 — Preguntas?
+
+### Fin de Capítulo 2 — Preguntas?
+
+### Fin de Parte 3 — Preguntas?
